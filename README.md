@@ -10,3 +10,5 @@
 - 📫 How to reach me: https://www.linkedin.com/in/natasha-rivers-8468b8209/
 
 - :airplane: Fun facts: I grew up in Zaragoza, Spain :es: and am fluent in Spanish
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=natasharivers&theme=merko)](https://git.io/streak-stats)
