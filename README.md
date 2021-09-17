@@ -18,7 +18,7 @@
   - Anomaly Detection
   - NLP
   
-- :coffee_bean: In my free-time, I am currently focusing on learning Java 
+- In my free-time, I am currently focusing on learning Java 
 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/natasha-rivers/), [gmail](natasha.tanya.rivers@gmail.com)
 
