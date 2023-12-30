@@ -4,7 +4,9 @@
 **natasharivers/natasharivers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- :computer: I am a Data Scientist :woman_student:
+- :computer: I am a Data Scientist
+
+- :woman_student: Currently completing my Bachelor's Degree in Computer Science 
 
 Concepts that I use regularly:
   - SQL
@@ -16,8 +18,8 @@ Concepts that I use regularly:
     - Classification
     - Clustering
     - Time Series
-  - Anomaly Detection
-  - NLP
+    - Anomaly Detection
+    - NLP
   
 - In my free time, I am currently focusing on learning PowerBI
 
