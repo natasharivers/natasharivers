@@ -4,7 +4,7 @@
 **natasharivers/natasharivers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- :computer: I am a Data Scientist who graduated from Codeup on September 3, 2021 :woman_student:
+- :computer: I am a Data Scientist :woman_student:
 
 Concepts that I use regularly:
   - SQL
