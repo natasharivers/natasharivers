@@ -6,12 +6,11 @@
 
 - :computer: I am a Data Scientist who graduated from Codeup on September 3, 2021 :woman_student:
 
-- 🌱 I’m have learned so much during my time at Codeup (including but not limited to):
+Concepts that I use regularly:
   - SQL
   - Python :snake:
   - Tableau 
   - Statistics :chart_with_upwards_trend: 
-  - Storytelling 
   - Methodologies:
     - Regression
     - Classification
@@ -20,7 +19,7 @@
   - Anomaly Detection
   - NLP
   
-- In my free time, I am currently focusing on learning Java 
+- In my free time, I am currently focusing on learning PowerBI
 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/natasha-rivers/), [gmail](natasha.tanya.rivers@gmail.com)
 
